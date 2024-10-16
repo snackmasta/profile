@@ -1,0 +1,42 @@
+td { 
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+h2 {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.head {
+    font-weight: bold;
+    background: #bae6a0;
+}
+.foot {
+    font-weight: bold;
+    background: #bae6a0;
+}
+.row-1 {
+    background: #efcef0;
+}
+
+.row-2 {
+    background: #feff00;
+}
+
+.satuan {
+    text-align: left;
+}
+
+.harga-satuan {
+    text-align: right;
+}
+
+.jumlah {
+    text-align: right;
+}
